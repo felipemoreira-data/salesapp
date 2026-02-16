@@ -1,14 +1,13 @@
-# 📊 SalesApp
+# SalesApp
 
-Aplicação web interativa para análise e visualização de dados de vendas, desenvolvida com **Python** e **Streamlit** durante estudos na Asimov Academy.
+Aplicação web interativa para análise e visualização de dados de vendas, desenvolvida com **Python** e **Streamlit** durante estudos na Asimov Academy como projeto adicional na formação analista de dados.
 
 ---
 
-## 📌 Sobre o Projeto
 
 O **SalesApp** é uma aplicação voltada para:
 
-- Análise exploratória de dados de vendas
+- Análise exploratória de dados de vendas usando 3 datasets (vendas, produtos e filiais)
 - Visualização de métricas comerciais 
 - Filtros dinâmicos 
 
@@ -21,7 +20,7 @@ O objetivo do projeto é praticar conceitos de:
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Python
 - Streamlit
@@ -30,7 +29,7 @@ O objetivo do projeto é praticar conceitos de:
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 SALES/
 │
